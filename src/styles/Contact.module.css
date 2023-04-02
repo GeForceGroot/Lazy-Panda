@@ -1,0 +1,32 @@
+.formsCont{
+    display: flex;
+    justify-content: center;
+    margin: 50px 800px 0px 800px;
+    border: 3px solid whitesmoke;
+    padding-left: 20px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    padding-top: 20px;
+     padding-bottom: 20px;
+}
+.headd{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.perCont{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btnn{
+    color: #d4c2c2;
+  background-color: #4565b6;
+  border: 3px solid #6a6767d1;
+  border-radius: 4px;
+  margin-left: 50px;
+  margin-right: 60px;
+  cursor: pointer;
+
+}
+
+
